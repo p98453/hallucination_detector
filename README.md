@@ -4,6 +4,18 @@
 
 批量检测智能客服回复中的"幻觉"（编造政策、杜撰参数、假装具备能力等），支持 Mock 规则模式和 DeepSeek API 模式。
 
+### 快速开始
+
+```bash
+# 1. 安装依赖
+pip install -r requirements.txt
+
+# 2. 运行 GUI 工具
+python main.py
+```
+
+> 也可直接双击 `dist/客服回复幻觉检测工具.exe`，无需安装任何环境。
+
 ***
 
 ## 二、幻觉分类体系
